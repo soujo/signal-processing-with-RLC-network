@@ -1,0 +1,3 @@
+Resonant Frequency: 15.92 Hz
+Steady-State Amplitude: 0.0306
+Steady-State Phase: -1.8460 radians
